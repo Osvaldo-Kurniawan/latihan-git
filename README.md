@@ -1,4 +1,4 @@
 # latihan-git
 repository ini dipakai buat belajar git
 
--26 Juni 2022-
+_26 Juni 2022_
